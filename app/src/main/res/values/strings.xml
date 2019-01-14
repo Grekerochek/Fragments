@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="button">Создать!</string>
+    <string name="text">Передаваемый текст</string>
+    <string name="third">Создался!</string>
+</resources>
